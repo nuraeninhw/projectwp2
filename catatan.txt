@@ -1,2 +1,3 @@
 Pertemuan 1 Perkenalan dan Install Software
-Pertemuan 2 Pengenalan Framework CI
+Pertemuan 2 Pengenalan Framework Code Igniter
+Pertemuan 3 Membahas MVC
