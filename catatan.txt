@@ -1,1 +1,2 @@
 Pertemuan 1 Perkenalan dan Install Software
+Pertemuan 2 Pengenalan Framework CI
